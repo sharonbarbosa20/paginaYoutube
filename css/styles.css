@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(241, 223, 223);
+}
+
+.altura1 {
+    height: 80px;
+    background-color: rgb(235, 148, 117);
+}
+
+.altura2 {
+    height: 1800px;
+    background-color: rgb(12, 200, 224);
+}
+
+.altura3 {
+    height: 900px;
+    background-color: rgb(189, 121, 39);
+}
+
+.altura4 {
+    height: 900px;
+    background-color: rgb(77, 45, 6);
+}
+
+.altura5{
+    height: 900px;
+    background-color: black;
+}
